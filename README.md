@@ -31,4 +31,6 @@ vlad: https://vladmihalcea.com/spring-jpa-dto-projection/
 
 gpt chat: https://chatgpt.com/share/689e1527-7f1c-800e-be5d-aaf68f8e1bed
 
+call python script from maven build: https://gist.github.com/busbey/bc6022b69ae7d2f1502bdbed7c1737c6
+
 check high performance java persistence book
