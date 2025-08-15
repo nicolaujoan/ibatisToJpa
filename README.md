@@ -35,4 +35,6 @@ call python script from maven build: https://gist.github.com/busbey/bc6022b69ae7
 
 interesting post: https://stackoverflow.com/questions/1984548/hibernate-vs-ibatis
 
+inspiration in mapstruct facility: https://www.baeldung.com/mapstruct
+
 check high performance java persistence book
