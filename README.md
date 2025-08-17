@@ -37,4 +37,12 @@ interesting post: https://stackoverflow.com/questions/1984548/hibernate-vs-ibati
 
 inspiration in mapstruct facility: https://www.baeldung.com/mapstruct
 
+hibernate entity manager docs: https://docs.jboss.org/hibernate/stable/entitymanager/reference/en/html/index.html
+
+six most famous java persistence frameworks: https://www.tuteworld.com/frameworks/java-persistence-frameworks
+
+interesting video about java persistence: https://www.youtube.com/watch?v=WSjj-IhBiSY
+
+chat of the framework design: https://chatgpt.com/share/68a21192-19f4-800e-b6d5-8a7f6b066669
+
 check high performance java persistence book
